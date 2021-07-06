@@ -5,7 +5,7 @@
 	--borderColor:#c1c1c1;
 
 	--mainText:black;
-	--secondaryText:#4b5156;
+	--secondaryText:#424242;
 
 	--buttonSecondaryColor:#17a2b8;
 
@@ -21,6 +21,7 @@ html, body{
 
 body *{
 	transition: 0.3s;
+	font-size: 17px;
 }
 
 
@@ -49,7 +50,7 @@ ul{
 
 h1 { font-size: 56px;}
 h2 { font-size: 36px;}
-h3 { font-size: 28px;}
+h3 { font-size: 32px;}
 h4 { font-size: 24px;}
 h5 { font-size: 20px;}
 h6 { font-size: 16px;}
@@ -166,7 +167,7 @@ h6 { font-size: 16px;}
 .project-intro{
 	padding-top: 20px;
 	color: var(--secondaryText);
-	font-size: 14px;
+	font-size: 16px;
 }
 
 .project-skills{
@@ -176,7 +177,7 @@ h6 { font-size: 16px;}
 
 .project-skills p{
 	color: var(--mainText);
-	font-size: 12px;
+	font-size: 14px;
 	font-weight:  700;
 }
 
